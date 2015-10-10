@@ -1,2 +1,2 @@
 # YoshGuenther-Photography
-Personal Site
+Photography Portfolio

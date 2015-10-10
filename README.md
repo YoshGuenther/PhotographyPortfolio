@@ -1,2 +1,2 @@
 # YoshGuenther-Photography
-Photography Portfolio
+Photography Portfolio offer my skills and show case my work.

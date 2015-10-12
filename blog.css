@@ -44,7 +44,12 @@ h6, .h6 {
 
 
 
-
+.blog-header{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
 
 
 /*
@@ -61,6 +66,7 @@ h6, .h6 {
 .main-nav-item {
   position: relative;
   display: inline-block;
+  font-size: 20px;
   padding: 10px;
   margin: 10px;
   font-weight: 500;
@@ -163,13 +169,18 @@ h6, .h6 {
 .blog-post {
   margin-bottom: 60px;
 }
-.blog-post-title {
+
+.blog-post-header{
   margin-bottom: 5px;
-  font-size: 40px;
+  border-bottom: 1px solid;
+}
+.blog-post-title {
+  margin-bottom: 1px;
+  font-size: 35px;
 }
 .blog-post-meta {
-  margin-bottom: 20px;
-  bottom-border: 1px solid #000;
+  margin-bottom: 1px;
+  font-size: 15px;
   color: #999;
 }
 

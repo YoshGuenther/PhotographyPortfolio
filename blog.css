@@ -170,6 +170,10 @@ h6, .h6 {
   margin-bottom: 60px;
 }
 
+.blog-post p: before {
+    /*Put a paragraph indent in */
+}
+
 .blog-post-header{
   margin-bottom: 5px;
   border-bottom: 1px solid;

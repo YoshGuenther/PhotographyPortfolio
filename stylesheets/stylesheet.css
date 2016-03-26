@@ -2,6 +2,19 @@ body{
   margin: 0;
   padding: 0;
 }
+.horizontal-center{
+  margin: auto;
+}
+.title-element{
+  float:left;
+}
+.title-element img{
+  vertical-align: middle;
+}
+.title-element h1{
+  display: inline-block;
+  vertical-align: middle;
+}
 
 #header{
   display: block;

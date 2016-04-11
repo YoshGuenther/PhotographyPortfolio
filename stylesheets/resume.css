@@ -52,6 +52,14 @@ a {
   font-size: 9.1px;
   font-weight: 300; }
 
+#update-status p {
+  visibility: hidden;
+}
+
+#update-status:hover > p{
+  visibility: visible;
+}
+
 .clearfix {
   clear: both; }
 

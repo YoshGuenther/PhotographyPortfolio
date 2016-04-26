@@ -4,8 +4,8 @@ body{
 }
 div{
   margin: 2% 0% 2% 0%;
-/*border-style:solid;
-border-color:black;*/
+border-style:solid;
+border-color:black;
 }
 @font-face {
   font-family: 'Mistral Regular';
@@ -21,6 +21,11 @@ border-color:black;*/
   text-align: center;
   clear: both;
 }
+#header a { text-decoration: none; color:black; }
+#header a:visited { text-decoration: none; }
+#header a:hover { text-decoration: none; }
+#header a:focus { text-decoration: none; }
+#header a:hover, #header a:active { text-decoration: none; }
 .title-element{
   display: inline-block;
   vertical-align: middle;
@@ -50,8 +55,8 @@ h1.title-element{
 #content{
   display: block;
   margin: auto;
-  height: 400px;
-  min-width: 300px;
+  text-align: center;
+  vertical-align: middle;
 }
 #content img{
   margin: auto;
@@ -59,15 +64,20 @@ h1.title-element{
   float: left;
   border-radius: 30px;
 }
+#content form{
+  text-align: center;
+}
 #aboutText{ /*#content div p*/
   margin: 0 auto;
   max-width: 300px;
   padding: 0px 5px 0px 5px;
+  text-align: left;
   display: block;
   float: left;
   font-size: 1.125em;
 }
 #footer{
+  clear: both;
   display: block;
   position: relative;
   bottom: 0px;

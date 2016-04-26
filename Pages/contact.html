@@ -9,35 +9,41 @@
     <meta name="author" content="Joshua Guenther">
     <title>YoshGuenther Portfolio</title>
 
-    <link rel="stylesheet" href="./stylesheets/stylesheet.css">
-    <link rel="stylesheet" href="./packages/font-awesome-4.5.0/css/font-awesome.min.css">
-    <link rel="icon" type="image/x-icon" href="./assets/favicon.ico">
+    <link rel="stylesheet" href="./../stylesheets/stylesheet.css">
+    <link rel="stylesheet" href="./../packages/font-awesome-4.5.0/css/font-awesome.min.css">
+    <link rel="icon" type="image/x-icon" href="./../assets/favicon.ico">
 
   </head>
 
   <body>
     <div id="header">
-      <a href="./index.html">
-        <img width="227" height="209" src="./assets/YG.png" class="title-element" id="logo"></img>
+      <a href="./../index.html">
+        <img width="227" height="209" src="./../assets/YG.png" class="title-element" id="logo"></img>
         <h1 class="title-element">YoshGuenther</br>Photography</h1>
       </a>
     </div>
     <div id="nav">
       <ul class="list-unstyled">
         <li><a class="nav-item" href="#">Photography</a></li>
-        <li><a class="nav-item" href="./Pages/Testimonial.html">Testimonials</a></li>
-        <li><a class="nav-item" href="./Pages/contact.html">Contact</a></li>
-        <li><a class="nav-item" href="./Pages/resumes/all-resume.html">Resume</a></li>
+        <li><a class="nav-item" href="./Testimonial.html">Testimonials</a></li>
+        <li><a class="nav-item" href="#">Contact</a></li>
+        <li><a class="nav-item" href="./resumes/all-resume.html">Resume</a></li>
       </ul>
     </div>
     <div id="content" class="horizontal-center">
-      <div id="selfPortrait">
-        <img width="265" height ="400" src="./assets/SelfPortrait.jpg"></img>
-      </div>
-      <div class="vertical-center" id="aboutText">
-        <p>Hi, I'm Josh. I'm a second-year student pursuing a Computer Science degree at UT Austin.</p>
-        <p>When I'm not coding, you can find me shooting pictures in the Central Texas Hill Country.</p>
-      </div>
+      <form action="MAILTO:" method="post" enctype="text/plain">
+        Name:<br>
+        <input type="text" name="name" value="full name"><br>
+        E-mail:<br>
+        <input type="text" name="mail" value="email">
+        <input type="hidden" name="subject" value="web_monitor"><br>
+        Subject:<br>
+        <input type="tet" name="subject" value="subject"><br>
+        Comment:<br>
+        <input type="text" name="comment" value="comment"><br><br>
+        <input type="submit" value="Send">
+        <input type="reset" value="Reset">
+      </form>
     </div>
     <div id="footer">
       <ul class="list-unstyled" id="social-media">

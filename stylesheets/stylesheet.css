@@ -57,13 +57,15 @@ h1.title-element{
   margin: auto;
   text-align: center;
   vertical-align: middle;
+  width: 840px;
 }
+/*
 #content img{
   margin: auto;
   display: block;
   float: left;
   border-radius: 30px;
-}
+}*/
 #content form{
   text-align: center;
 }

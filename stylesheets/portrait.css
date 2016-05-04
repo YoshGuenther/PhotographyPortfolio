@@ -1,0 +1,22 @@
+.portrait-title{
+  text-aling: center;
+  font-family: Sans Pro;
+  font-size: 26.4px;
+}
+
+.portrait-intro{
+  text-align: left;
+  font-family: Sans Pro;
+  font-size: 22px;
+}
+.portrait-photos{
+  margin: auto;
+  border-radius: 0px;
+}
+.portrait-photos img{
+  margin: 2px;
+}
+
+.self-critique ul{
+  list-style-type: none;
+}

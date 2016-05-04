@@ -15,7 +15,7 @@ ImageViewer.prototype.slide = function(x){
   if(this.imageCount > this.totalImages){
     this.imageCount = 1;
   }
-  image.src = "./../../assets/images/" + this.rootIdSelector + "/" + this.imageCount + ".jpg";
+  image.src = "./../../../assets/images/events/" + this.rootIdSelector + "/" + this.imageCount + ".jpg";
   console.log(image.src);
 }
 var longhornrun = new ImageViewer(13, "longhornrun2016");

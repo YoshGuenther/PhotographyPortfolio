@@ -5,7 +5,7 @@ function ImageViewer(totalImages, idSelector){
 }
 ImageViewer.prototype.slide = function(x){
 
-  var image = document.getElementById(this.rootIdSelector).getElementsByTagName("img")[0];
+  var image = document.getElementsByClassName("event-img")[0];
   console.log(image);
   this.imageCount = this.imageCount + x;
   console.log(this.imageCount);

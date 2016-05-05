@@ -1,0 +1,24 @@
+.content-dimensions{
+  width: 600px;
+  height: 410px;
+}
+#aboutMe{
+  width: 590px;
+  height: 410px;
+}
+#selfPortrait{
+  float: left;
+  display: block;
+  border-radius: 30px;
+  margin: 5px;
+}
+#aboutText{
+  float: left;
+  margin: 5px;
+  width: 300px;
+  height: 210px;
+  text-align: left;
+  position: relative;
+  top: 20%;
+  font-size: 1.125em;
+}

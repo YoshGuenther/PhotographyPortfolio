@@ -1,21 +1,28 @@
 .content-dimensions{
-  width: 902px;
-  height: 326px;
+  width: 755px;
+  height: 610px;
 }
 .info-box{
   float: left;
   width: 300px;
+  height: 230px;
   margin: 25px;
   padding: 10px;
   border-style: solid;
   border-width: 3px;
   border-radius: 5px;
 }
+.info-box a{
+  text-decoration: none;
+  color: black;
+}
 .info-box img{
   border-radius: 5px;
 }
 .info-box h3{
   text-align: center;
+  position: relative;
+  bottom: 1%;
   margin: 3px;
 }
 #events h3{

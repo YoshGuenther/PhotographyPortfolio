@@ -1,22 +1,47 @@
-.portrait-title{
-  text-aling: center;
-  font-family: Sans Pro;
-  font-size: 26.4px;
+.content-dimensions{
+  width: 680px;
 }
-
-.portrait-intro{
+#portrait-header{
+  text-align: center;
+  font-family: Sans Pro;
+  margin: 3px;
+}
+#portrait-title{
+  font-size: 3em;
+  margin: 3px;
+}
+#portrait-date{
+  font-size: 1.5em;
+  margin: 3px;
+}
+#portrait-intro{
   text-align: left;
   font-family: Sans Pro;
   font-size: 22px;
+  margin: 3px;
 }
-.portrait-photos{
+#portrait-photos{
   margin: auto;
   border-radius: 0px;
+  vertical-align: middle;
 }
-.portrait-photos img{
-  margin: 2px;
+#portrait-photos img{
+  display: block;
+  margin: 3px auto;
 }
-
-.self-critique ul{
+#portrait-critique{
+  margin: auto;
+}
+#portrait-critique h3{
+  text-align: center;
+  margin: 3px;
+}
+#self-critique ul{
   list-style-type: none;
+}
+#self-critique ul li h4{
+  margin: 6px;
+}
+#self-critique ul li p{
+  margin: 6px;
 }

@@ -14,9 +14,9 @@
 .event-img{
   width: 675px;
   height: 450px;
-
-  posiiton: absolute;
+  position: relative;
   border-radius: 0px !important;
+  display: inline-block;
 }
 
 .leftArrow{

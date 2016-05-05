@@ -1,0 +1,98 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+@font-face {
+  font-family: 'Mistral Regular';
+  src: url("./../assets/fonts/Mistral.ttf") format("truetype");
+}
+div{
+  border-style: solid;
+  border-width: 1px;
+}
+.center{
+  display: block;
+  clear: both;
+  vertical-align: middle;
+}
+
+#header{
+  width: 584px;
+  height: 220px;
+  margin: auto;
+}
+#header a{
+  display: inline;
+  text-decoration: none;
+  color: black;
+}
+#header #logo{
+  float: left;
+}
+#header h1{
+  display: inline;
+  float: left;
+  position: relative;
+  top: 4%;
+  text-align: center;
+  font-family: "Mistral Regular", "Times New Roman", Georgia, Serif;
+  font-size: 5em;
+}
+.title-element{
+  margin: 5px;
+  font-family: Sans Pro, "Times New Roman", Georgia, Serif;
+  font-size: 26.4px;
+}
+
+#nav{
+  margin: auto;
+  text-align: center;
+}
+.nav-item{
+  text-decoration: none;
+  margin: 1% 5%;
+  color: #000000;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.list-unstyled li{
+  list-style-type: none;
+  display: inline;
+}
+
+#content{
+  display: block;
+  clear: both;
+  margin: auto;
+
+}
+.about-dimensions{
+  width: 600px;
+  height: 410px;
+}
+#aboutMe{
+  width: 590px;
+  height: 410px;
+}
+#selfPortrait{
+  float: left;
+  display: block;
+  border-radius: 30px;
+  margin: 5px;
+}
+#aboutText{
+  float: left;
+  margin: 5px;
+  width: 300px;
+  height: 210px;
+  text-align: left;
+  position: relative;
+  top: 20%;
+  font-size: 1.125em;
+}
+
+#footer{
+  position: relative;
+  bottom: 0px;
+  text-align: center;
+}

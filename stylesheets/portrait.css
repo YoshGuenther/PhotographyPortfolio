@@ -39,9 +39,9 @@
 #self-critique ul{
   list-style-type: none;
 }
-#self-critique ul li h4{
+#self-critique h4{
   margin: 6px;
 }
-#self-critique ul li p{
+#self-critique p{
   margin: 6px;
 }

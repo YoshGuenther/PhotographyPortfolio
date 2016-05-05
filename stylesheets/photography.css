@@ -1,0 +1,26 @@
+.content-dimensions{
+  width: 902px;
+  height: 326px;
+}
+.info-box{
+  float: left;
+  width: 300px;
+  margin: 25px;
+  padding: 10px;
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 5px;
+}
+.info-box img{
+  border-radius: 5px;
+}
+.info-box h3{
+  text-align: center;
+  margin: 3px;
+}
+#events h3{
+
+}
+#portraits{
+
+}

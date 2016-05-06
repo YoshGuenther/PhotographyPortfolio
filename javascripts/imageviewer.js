@@ -18,3 +18,4 @@ var longhornrun = new ImageViewer(13, "longhornrun2016");
 var godstock = new ImageViewer(77, "godstock2016");
 var sxswgamingexpo = new ImageViewer(15, "sxswgamingexpo2016");
 var holi2016 = new ImageViewer(31, "holi2016");
+var motogp2016 = new ImageViewer(24, "motogp2016");

@@ -11,6 +11,7 @@
 
     <link rel="stylesheet" href="./../../../stylesheets/main.css">
     <link rel="stylesheet" href="./../../../stylesheets/imageviewer.css">
+    <link rel="stylesheet" href="./../../../stylesheets/event.css">
     <link rel="stylesheet" href="./../../../packages/font-awesome-4.5.0/css/font-awesome.min.css">
     <link rel="icon" type="image/x-icon" href="./../../../assets/favicon.ico">
     <script type="text/javascript" src="./../../../javascripts/imageviewer.js"></script>
@@ -31,12 +32,16 @@
         <li><a class="nav-item" href="./../../resumes/all-resume.html">Resume</a></li>
       </ul>
     </div>
-    <div id="content" class="center">
-      <h3>2016 Longhorn Run</h3>
-      <img src="./../../../assets/images/events/longhornrun2016/1.jpg" class="event-img">
-        <div class="leftArrow"><i class="fa fa-arrow-left fa-3x" aria-hidden="true" onclick="longhornrun.slide(-1);"></i></div>
-        <div class="rightArrow"><i class="fa fa-arrow-right fa-3x" aria-hidden="true" onclick="longhornrun.slide(1);"></i></div>
-      </img>
+    <div id="content" class="center content-dimensions">
+      <div id="longhornrun2016" class="event">
+        <h1>2016 Longhorn Run</h1>
+        <div class="imageviewer">
+          <img src="./../../../assets/images/events/longhornrun2016/1.jpg" class="event-img"></img>
+          <div class="leftArrow"><i class="fa fa-arrow-left fa-3x" aria-hidden="true" onclick="longhornrun.slide(-1);"></i></div>
+          <div class="rightArrow"><i class="fa fa-arrow-right fa-3x" aria-hidden="true" onclick="longhornrun.slide(1);"></i></div>
+        </div>
+      </div>
+    </div>
     </div>
     <div id="footer" class="center">
       <ul class="list-unstyled" id="social-media">

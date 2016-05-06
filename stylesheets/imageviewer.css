@@ -8,6 +8,9 @@
   color: #D3D3D3;
   visibility: hidden;
 }
+.event h1{
+  text-align: center;
+}
 .leftArrow:hover > i, .rightArrow:hover > i{
   visibility: visible;
 }
@@ -15,23 +18,29 @@
   width: 675px;
   height: 450px;
   position: relative;
-  border-radius: 0px !important;
-  display: inline-block;
+  border-radius: 0px;
+  display: block;
+  z-index: -1;
 }
-
+.imageviewer{
+  position: relative;
+  z-index: 10;
+  top: 0px;
+  /*color: white;*/
+}
 .leftArrow{
   height: 450px;
   width: 100px;
   position: absolute;
   left: 0px;
-  top: 45px;
+  bottom: 0%;
 }
 .rightArrow{
   height: 450px;
   width: 100px;
   position: absolute;
   right: 0px;
-  top: 45px;
+  bottom: 0%;
 }
 .leftArrow i {
   height: 50px;

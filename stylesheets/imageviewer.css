@@ -2,7 +2,6 @@
   width: 675px;
   height: 510px;
   margin 20px auto;
-  position: relative;
 }
 .event i {
   color: #D3D3D3;
@@ -14,20 +13,23 @@
 .leftArrow:hover > i, .rightArrow:hover > i{
   visibility: visible;
 }
-.event-img{
-  width: 675px;
-  height: 450px;
-  position: relative;
-  border-radius: 0px;
-  display: block;
-  z-index: -1;
-}
 .imageviewer{
+  height: 450px;
   position: relative;
   z-index: 10;
   top: 0px;
   /*color: white;*/
 }
+.event-img{
+  margin: auto;
+  max-width: 675px;
+  max-height: 450px;
+  position: relative;
+  border-radius: 0px;
+  display: block;
+  z-index: -1;
+}
+
 .leftArrow{
   height: 450px;
   width: 100px;

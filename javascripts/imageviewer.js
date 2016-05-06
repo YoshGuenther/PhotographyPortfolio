@@ -19,5 +19,5 @@ ImageViewer.prototype.slide = function(x){
   console.log(image.src);
 }
 var longhornrun = new ImageViewer(13, "longhornrun2016");
-var godstock = new ImageViewer(10, "godstock2016");
+var godstock = new ImageViewer(77, "godstock2016");
 var sxswgamingexpo = new ImageViewer(15, "sxswgamingexpo2016");

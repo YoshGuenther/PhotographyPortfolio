@@ -14,8 +14,16 @@ ImageViewer.prototype.slide = function(x){
   }
   image.src = "./../../../assets/images/events/" + this.rootIdSelector + "/" + this.imageCount + ".jpg";
 }
-var longhornrun = new ImageViewer(13, "longhornrun2016");
-var godstock = new ImageViewer(77, "godstock2016");
-var sxswgamingexpo = new ImageViewer(15, "sxswgamingexpo2016");
-var holi2016 = new ImageViewer(31, "holi2016");
-var motogp2016 = new ImageViewer(24, "motogp2016");
+function checkKeyCode(event, imageViewerObject){
+  // handling Internet Explorer stupidity with window.event
+  // @see http://stackoverflow.com/a/3985882/517705
+  var keyDownEvent = event || window.event, keycode = (keyDownEvent.which) ? keyDownEvent.which : keyDownEvent.keyCode;
+  switch (keyDownEvent.keyCode) {
+    case 37: //Left Arrow
+      imageViewerObject.slide(-1);
+      break;
+    case 39: //Right Arrow
+      imageViewerObject.slide(1);
+      break;
+  }
+}

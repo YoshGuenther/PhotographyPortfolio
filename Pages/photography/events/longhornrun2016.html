@@ -15,6 +15,12 @@
     <link rel="stylesheet" href="./../../../packages/font-awesome-4.5.0/css/font-awesome.min.css">
     <link rel="icon" type="image/x-icon" href="./../../../assets/favicon.ico">
     <script type="text/javascript" src="./../../../javascripts/imageviewer.js"></script>
+    <script type="text/javascript">
+      var longhornrun2016 = new ImageViewer(13, "longhornrun2016");
+      document.onkeydown = function(event){
+        checkKeyCode(event, longhornrun2016);
+      }
+    </script>
   </head>
 
   <body>
@@ -37,8 +43,8 @@
         <h1>2016 Longhorn Run</h1>
         <div class="imageviewer">
           <img src="./../../../assets/images/events/longhornrun2016/1.jpg" class="event-img"></img>
-          <div class="leftArrow"><i class="fa fa-arrow-left fa-3x" aria-hidden="true" onclick="longhornrun.slide(-1);"></i></div>
-          <div class="rightArrow"><i class="fa fa-arrow-right fa-3x" aria-hidden="true" onclick="longhornrun.slide(1);"></i></div>
+          <div class="leftArrow"><i class="fa fa-arrow-left fa-3x" aria-hidden="true" onclick="longhornrun2016.slide(-1);"></i></div>
+          <div class="rightArrow"><i class="fa fa-arrow-right fa-3x" aria-hidden="true" onclick="longhornrun2016.slide(1);"></i></div>
         </div>
       </div>
     </div>

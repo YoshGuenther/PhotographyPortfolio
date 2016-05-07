@@ -1,5 +1,5 @@
 .content-dimensions{
-  width: 600px;
+  width: 900px;
   height: 410px;
 }
 #aboutMe{
@@ -15,10 +15,10 @@
 #aboutText{
   float: left;
   margin: 5px;
-  width: 300px;
+  width: 600px;
   height: 210px;
   text-align: left;
   position: relative;
-  top: 20%;
+  top: 2%;
   font-size: 1.125em;
 }

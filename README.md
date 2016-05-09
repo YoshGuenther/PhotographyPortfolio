@@ -23,3 +23,5 @@ Add WoofStock.
 Write about Shruthi's senior portraits.
 
 Setup "for fun" page showing macros, nature, landscape, etc photos.
+
+Look at this for contact page inspiration: https://github.com/salkj/salkj.github.io

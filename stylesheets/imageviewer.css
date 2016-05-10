@@ -10,6 +10,7 @@
   visibility: visible;
 }
 .imageviewer{
+  width: 675px;
   height: 450px;
   position: relative;
   z-index: 1;

@@ -1,6 +1,7 @@
 body{
   margin: 0;
   padding: 0;
+  background-color: #f9f9f9;
 }
 @font-face {
   font-family: 'Mistral Regular';
@@ -59,8 +60,10 @@ body{
   margin: 3px;
 }
 .nav-item{
-  text-decoration: none;
   margin: 1% 5%;
+}
+.main-nav-link{
+  text-decoration: none;
   color: #000000;
   font-size: 1.5em;
   font-weight: bold;
@@ -69,6 +72,37 @@ body{
   list-style-type: none;
   display: inline;
 }
+.dropdown{
+    position: relative;
+    display: inline-block;
+    z-index: 10;
+}
+.dropdown-content{
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.dropdown:hover .dropdown-content{
+    display: block;
+}
+.dropdown-content a{
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.dropdown-content a:hover{
+  background-color: #f1f1f1;
+}
+
+
 
 #content{
   display: block;

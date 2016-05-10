@@ -1,8 +1,4 @@
-.event{
-  width: 675px;
-  height: 510px;
-  margin 20px auto;
-}
+
 .event i {
   color: #D3D3D3;
   visibility: hidden;

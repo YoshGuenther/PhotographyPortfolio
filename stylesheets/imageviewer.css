@@ -16,7 +16,7 @@
 .imageviewer{
   height: 450px;
   position: relative;
-  z-index: 10;
+  z-index: 1;
   top: 0px;
   /*color: white;*/
 }

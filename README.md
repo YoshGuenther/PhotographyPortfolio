@@ -34,3 +34,6 @@ Photography Portfolio offer my skills and show case my work.
 *Setup "for fun" page showing macros, nature, landscape, etc photos.
 
 *Look at this for contact page inspiration: https://github.com/salkj/salkj.github.io
+
+# Bugs:
+*When you use the nav dropdown menu and the scroll bar is present, it shifts the header.

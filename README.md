@@ -29,9 +29,11 @@ Photography Portfolio offer my skills and show case my work.
 * Add Events:
   * TIP Recognition Dinner
   * Austin Marathon.
-  * WaterTrotter Urban Challenge.
+  * ~~WaterTrotter Urban Challenge.~~ 5/9/2016
   * Eeyor's Birthday event.
-  * WoofStock.
+  * ~~WoofStock.~~ 5/10/2016
+
+* Add new canon lens to resumes.
 
 * Write about Shruthi's senior portraits.
 

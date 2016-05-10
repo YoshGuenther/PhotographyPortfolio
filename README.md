@@ -3,25 +3,34 @@ Photography Portfolio offer my skills and show case my work.
 
 
 #TODO:
-Setup NSFW Notification overlay
-Add sub-links to main nav bar.
+*Setup NSFW Notification overlay
+*~~Add sub-links to main nav bar.~~
+*Setup imageviewer to where you can have multiple viewers per page
 
-Get more testimonials.
+*Get more testimonials.
 
-Setup Photo Story Page
+*Setup Photo Story Page
+*Setup Travel page
+  *Add Washington, DC photos
+  *Add Puerto Rico Photos
 
-Create photography page icons for events, portraits, sports, and photo stories.
+*Create photography page icons for:
+   *events
+   *portraits
+   *sports
+   *photo stories.
 
-Add dates to events.
-Add descriptions to events.
-Add TIP Recognition Dinner
-Add Austin Marathon.
-Add WaterTrotter Urban Challenge.
-Add Eeyor's Birthday event.
-Add WoofStock.
+*Add dates to events.
+*Add descriptions to events.
+*Add Events:
+  *TIP Recognition Dinner
+  *Austin Marathon.
+  *WaterTrotter Urban Challenge.
+  *Eeyor's Birthday event.
+  *WoofStock.
 
-Write about Shruthi's senior portraits.
+*Write about Shruthi's senior portraits.
 
-Setup "for fun" page showing macros, nature, landscape, etc photos.
+*Setup "for fun" page showing macros, nature, landscape, etc photos.
 
-Look at this for contact page inspiration: https://github.com/salkj/salkj.github.io
+*Look at this for contact page inspiration: https://github.com/salkj/salkj.github.io

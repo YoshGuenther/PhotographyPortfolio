@@ -1,6 +1,8 @@
 # YoshGuenther Photography Portfolio
 Photography Portfolio offer my skills and show case my work.
 
+# Website inspiration
+* [Soundwave](http://www.soundwave.cc/ "Soundwave")
 
 # TODO:
 * Setup NSFW Notification overlay

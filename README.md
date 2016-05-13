@@ -3,6 +3,7 @@ Photography Portfolio offer my skills and show case my work.
 
 # Website inspiration
 * [Soundwave](http://www.soundwave.cc/ "Soundwave")
+* [Nathan Chapman](http://nathanchapman.io/ "Nathan Chapman")
 
 # TODO:
 * Setup NSFW Notification overlay

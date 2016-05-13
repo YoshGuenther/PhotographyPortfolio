@@ -15,7 +15,7 @@ Photography Portfolio offer my skills and show case my work.
 
 * Get more testimonials.
 
-* Setup Photo Story Page
+* ~~Setup Photo Story Page~~
 * Setup Travel page
   * Add Washington, DC photos
   * Add Puerto Rico Photos

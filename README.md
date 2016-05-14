@@ -19,6 +19,7 @@ Photography Portfolio offer my skills and show case my work.
 * Setup Travel page
   * Add Washington, DC photos
   * Add Puerto Rico Photos
+  * Add San Francisco
 * Setup "for fun" page showing macros, nature, landscape, etc photos.
 
 * Create photography page icons for:

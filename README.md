@@ -37,7 +37,7 @@ Photography Portfolio offer my skills and show case my work.
   * Eeyor's Birthday event.
   * ~~WoofStock.~~ 5/10/2016
 
-* Add new canon lens to resumes.
+* ~~Add new canon lens to resumes.~~
 
 * Write about Shruthi's senior portraits.
 

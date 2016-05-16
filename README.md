@@ -21,6 +21,9 @@ Photography Portfolio offer my skills and show case my work.
   * Add Puerto Rico Photos
   * Add San Francisco
 * Setup "for fun" page showing macros, nature, landscape, etc photos.
+* Setup pet page.
+  * Add kylie
+  * Add HLSPCA
 
 * Create photography page icons for:
    * events

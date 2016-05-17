@@ -10,8 +10,15 @@
     <title>YoshGuenther Portfolio</title>
 
     <link rel="stylesheet" href="./../../stylesheets/main.css">
+    <link rel="stylesheet" href="./../../stylesheets/card.css">
     <link rel="stylesheet" href="./../../packages/font-awesome-4.5.0/css/font-awesome.min.css">
     <link rel="icon" type="image/x-icon" href="./../../assets/favicon.ico">
+
+    <style type="text/css">
+      .content-dimensions{
+        width: 755px;
+      }
+    </style>
   </head>
 
   <body>
@@ -46,11 +53,25 @@
           </div>
       </ul>
     </div>
-    <div id="content" class="center">
-      <ul>
-        <li><a href="./portraits/jasonandkat.html">Jason and Kat's Maternity Shoot</a></li>
-        <li><a href="./portraits/shruthiandnick.html">Shruthi and Nick's Senior Portraits</a></li>
-      </ul>
+    <div id="content" class="center content-dimensions">
+      <div id="rebeccaintherain" class="event card" title="Rebecca in the Rain.">
+        <a href="./portraits/rebeccaintherain.html">
+          <div class="card-img"><img src="./../../assets/images/portraits/rebeccaintherain/logo.png"></img></div>
+          <div class="card-title"><h3>Rebecca in the rain</h3></div>
+        </a>
+      </div>
+      <div id="katandjason" class="event card" title="Jason and Kat's Maternity Shoot">
+        <a href="./portraits/jasonandkat.html">
+          <div class="card-img"><img src="./../../assets/images/portraits/jasonandkat/logo.png"></img></div>
+          <div class="card-title"><h3>Jason and Kat's Maternity Shoot</h3></div>
+        </a>
+      </div>
+      <div id="shruthiandnick" class="event card" title="Shruthi and Nick's Senior Portraits">
+        <a href="./portraits/shruthiandnick.html">
+          <div class="card-img"><img src="./../../assets/images/portraits/shruthiandnick/logo.png"></img></div>
+          <div class="card-title"><h3>Shruthi and Nick's Senior Portraits</h3></div>
+        </a>
+      </div>
     </div>
     <div id="footer" class="center">
       <ul class="list-unstyled" id="social-media">

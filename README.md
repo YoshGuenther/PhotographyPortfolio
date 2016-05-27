@@ -48,3 +48,6 @@ Photography Portfolio offer my skills and show case my work.
 
 # Bugs:
 * When you use the nav dropdown menu and the scroll bar is present, it shifts the header.
+
+# Notes: 
+Color scheme for sports logo on photography page: F16745	FFC65D	7BC8A4	4CC3D9	93648D	404040

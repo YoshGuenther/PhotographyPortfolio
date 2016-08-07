@@ -24,10 +24,11 @@ Photography Portfolio offer my skills and show case my work.
 * Setup pet page.
   * Add kylie
   * Add HLSPCA
+  * Add HLSPCA pet stories
 
 * Create photography page icons for:
-   * events
-   * portraits
+   * ~~events~~ 8/6/2016
+   * ~~portraits~~ 8/6/2016
    * sports
    * photo stories.
 
@@ -36,18 +37,18 @@ Photography Portfolio offer my skills and show case my work.
 * Add Events:
   * TIP Recognition Dinner
   * Austin Marathon.
-  * ~~WaterTrotter Urban Challenge.~~ 5/9/2016
+  * WaterTrotter Urban Challenge.
   * Eeyor's Birthday event.
   * ~~WoofStock.~~ 5/10/2016
 
 * ~~Add new canon lens to resumes.~~
 
-* Write about Shruthi's senior portraits.
+* ~~Write about Shruthi's senior portraits.~~
 
 * Look at this for contact page inspiration: https://github.com/salkj/salkj.github.io
 
 # Bugs:
 * When you use the nav dropdown menu and the scroll bar is present, it shifts the header.
 
-# Notes: 
+# Notes:
 Color scheme for sports logo on photography page: F16745	FFC65D	7BC8A4	4CC3D9	93648D	404040

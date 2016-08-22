@@ -1,0 +1,91 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+div{
+  margin: 2% 0% 2% 0%;
+/*border-style:solid;
+border-color:black;*/
+}
+@font-face {
+  font-family: 'Mistral Regular';
+  src: url("./../assets/fonts/Mistral.ttf") format("truetype");
+}
+
+.vertical-center{
+  vertical-align: middle;
+}
+#header{
+  display: inline-block;
+  margin: auto;
+  text-align: center;
+  clear: both;
+}
+#header a { text-decoration: none; color:black; }
+#header a:visited { text-decoration: none; }
+#header a:hover { text-decoration: none; }
+#header a:focus { text-decoration: none; }
+#header a:hover, #header a:active { text-decoration: none; }
+.title-element{
+  display: inline-block;
+  vertical-align: middle;
+  float: left;
+  margin: 5px;
+}
+img.title-element{
+}
+h1.title-element{
+  display: table-cell;
+  font-family: "Mistral Regular", "Times New Roman", Georgia, Serif;
+  font-size: 5em;
+}
+
+
+#nav{
+  margin: auto;
+  text-align: center;
+}
+.nav-item{
+  text-decoration: none;
+  margin: 5%;
+  color: #000000;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+#content{
+  display: block;
+  margin: auto;
+  text-align: center;
+  vertical-align: middle;
+  width: 840px;
+}
+/*
+#content img{
+  margin: auto;
+  display: block;
+  float: left;
+  border-radius: 30px;
+}*/
+#content form{
+  text-align: center;
+}
+#aboutText{ /*#content div p*/
+  margin: 0 auto;
+  max-width: 300px;
+  padding: 0px 5px 0px 5px;
+  text-align: left;
+  display: block;
+  float: left;
+  font-size: 1.125em;
+}
+#footer{
+  clear: both;
+  display: block;
+  position: relative;
+  bottom: 0px;
+  text-align: center;
+}
+.list-unstyled li{
+  list-style-type: none;
+  display: inline;
+}

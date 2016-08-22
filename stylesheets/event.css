@@ -1,0 +1,18 @@
+.content-dimensions{
+  width: 755px;
+}
+#event{
+  margin 20px auto;
+}
+#event-title{
+  margin-bottom: 0px;
+  text-align: center;
+}
+#event-date{
+  margin-top: 0px;
+  text-align: center;
+}
+#event-description{
+  text-align: center;
+  margin: 20px;
+}

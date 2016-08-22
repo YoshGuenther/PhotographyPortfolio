@@ -1,0 +1,63 @@
+.content-dimensions{
+  width: 680px;
+}
+#portrait-header{
+  text-align: center;
+  font-family: Sans Pro;
+  margin: 3px;
+}
+#portrait-title{
+  font-size: 3em;
+  margin: 3px;
+}
+#portrait-date{
+  font-size: 1.5em;
+  margin: 3px;
+}
+#portrait-intro{
+  text-align: left;
+  font-family: Sans Pro;
+  font-size: 22px;
+  margin: 3px;
+}
+#portrait-photos{
+  margin: auto;
+  border-radius: 0px;
+  vertical-align: middle;
+}
+#portrait-photos img{
+  display: block;
+  margin: 3px auto;
+}
+#portrait-critique{
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+#self-critique-button{
+  width: 145px;
+  margin: auto;
+}
+#self-critique-title{
+  padding: 6px;
+  font-size: 25px;
+  color: black;  text-align: center;
+  border: 2px solid;
+  border-radius: 5px;
+  text-decoration: none;
+  background-color: #f9f9f9;;
+}
+#self-critique-button:hover{
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24);
+}
+#self-critique{
+  display: none;
+}
+#self-critique:target{
+  display: block;
+}
+.critique-element h4{
+  margin: 6px;
+}
+.critique-element p{
+  margin: 6px;
+}

@@ -114,11 +114,7 @@ body{
 
 
 #footer{
-<<<<<<< HEAD
-  position: absolute;
-=======
   position: relative;
->>>>>>> e13e254e15bcce54e268bdf98c1a95512ca5b7ce
-  bottom: 0px;
+  bottom: 0;
   text-align: center;
 }

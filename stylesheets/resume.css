@@ -283,3 +283,10 @@ a .button:hover{
 .nav-buttons a#active{
   border: 2px solid #747474;
 }
+
+
+.no-link{
+  text-decoration: none;
+  color: inherit;
+  font-weight: 200;
+}

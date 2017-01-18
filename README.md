@@ -1,54 +1,28 @@
-# YoshGuenther Photography Portfolio
-Photography Portfolio offer my skills and show case my work.
+http://getbootstrap.com/examples/carousel/
 
-# Website inspiration
-* [Soundwave](http://www.soundwave.cc/ "Soundwave")
-* [Nathan Chapman](http://nathanchapman.io/ "Nathan Chapman")
 
-# TODO:
-* Setup NSFW Notification overlay
-* ~~Add sub-links to main nav bar.~~ 5/9/2016
-* Setup imageviewer to where you can have multiple viewers per page
-  * Make imageviewer transition opacity between images
-  * Make imageviewer scroll through images.
-* Add block-link format to Portrait page.
+#Events
 
-* Get more testimonials.
+2017-1-8 Asiya's Birthday
+2016-11-19 Liendo Plantation
+2016-11-10 Diwali
+2016-9-30 Nivratri
+2016-8-30 Gone to ICA
+2016-6-24 Visa 5K
+2016-5-7 CableStock
+2016-4-23 Water Trotter
+2016-4-16 GodStock
+2016-4-10 Frisbee Fling
+2016-4-9 MotoGP
+2016-3-17 SXSW Gaming Expo
+2015-10-3 Texas Early Day Tractor and Engine Association Annual State Show
 
-* ~~Setup Photo Story Page~~
-* Setup Travel page
-  * Add Washington, DC photos
-  * Add Puerto Rico Photos
-  * Add San Francisco
-* Setup "for fun" page showing macros, nature, landscape, etc photos.
-* Setup pet page.
-  * Add kylie
-  * Add HLSPCA
-  * Add HLSPCA pet stories
-
-* Create photography page icons for:
-   * ~~events~~ 8/6/2016
-   * ~~portraits~~ 8/6/2016
-   * sports
-   * photo stories.
-
-* Add dates to events.
-* Add descriptions to events.
-* Add Events:
-  * TIP Recognition Dinner
-  * Austin Marathon.
-  * WaterTrotter Urban Challenge.
-  * Eeyor's Birthday event.
-  * ~~WoofStock.~~ 5/10/2016
-
-* ~~Add new canon lens to resumes.~~
-
-* ~~Write about Shruthi's senior portraits.~~
-
-* Look at this for contact page inspiration: https://github.com/salkj/salkj.github.io
-
-# Bugs:
-* When you use the nav dropdown menu and the scroll bar is present, it shifts the header.
-
-# Notes:
-Color scheme for sports logo on photography page: F16745	FFC65D	7BC8A4	4CC3D9	93648D	404040
+Missing
+2016-5-1 WoofStock
+2016-4-3 Holi
+2016-4-9 Longhorn Run
+2016-4-30 Eeyore's Birthday
+2016-8-23 Tip Challenge
+2016-12-11 The Nutcracker
+2016 Visa Destination Everywhere
+2016 MAPPD Intern Summit

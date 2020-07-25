@@ -154,6 +154,12 @@
 		&:hover {
 			border-bottom-color: transparent;
 		}
+
+		&.disabled {
+			opacity: .4;
+			cursor: default !important;
+			pointer-events: none;
+		}
 	}
 
 	strong, b {
